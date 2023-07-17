@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+
+##Output
+
+
+
+<img src="https://github.com/firose-munna/LiveTest10/assets/105736440/bcc02e0b-ad76-4db5-9046-1e4ac2354cdf" alt="Portrait" height="400" width="200">
+
+<img src="https://github.com/firose-munna/LiveTest10/assets/105736440/2ed33cc8-b2e3-47fb-9822-6eec6048bf4c" alt="Landscape" height="200" width="400">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
